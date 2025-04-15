@@ -4,8 +4,7 @@ This repository contains a single HTML file that creates a basic, responsive web
 
 **This is primarily intended as a demonstration or personal tool due to inherent security limitations regarding API key handling.**
 
-![Screenshot Placeholder - Replace with an actual screenshot of the UI](screenshot.png)
-*(Replace `screenshot.png` with an actual image file in your repo)*
+![Screenshot Placeholder - Replace with an actual screenshot of the UI](cyber.png)
 
 ## Features
 
